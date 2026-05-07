@@ -19,7 +19,7 @@ This type of regional workforce intelligence supports talent strategy, site sele
 
 ## Live Dashboard
 
-[![Dashboard Preview](https://public.tableau.com/thumb/views/county_workforce_2024/Dashboard1)](https://public.tableau.com/views/county_workforce_2024/Dashboard1)
+🔗 **[View Live Dashboard on Tableau Public](https://public.tableau.com/views/county_workforce_2024/Dashboard1)**
 
 ---
 
